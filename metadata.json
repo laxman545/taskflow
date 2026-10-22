@@ -1,0 +1,6 @@
+{
+  "name": "Namaste Print",
+  "description": "Nepal-first, mobile-first web platform for print shops to send and receive files via permanent QR code without customer accounts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

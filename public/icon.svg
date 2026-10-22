@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="128" fill="#1e3a8a"/>
+  <!-- Decorative Accent Gradient -->
+  <circle cx="256" cy="256" r="220" stroke="#3b82f6" stroke-width="8" stroke-dasharray="16 16" opacity="0.3"/>
+  <!-- Printer Base -->
+  <path d="M128 200C128 177.909 145.909 160 168 160H344C366.091 160 384 177.909 384 200V328C384 350.091 366.091 368 344 368H168C145.909 368 128 350.091 128 328V200Z" fill="#ffffff"/>
+  <!-- Paper Tray Top -->
+  <path d="M176 112C176 103.163 183.163 96 192 96H320C328.837 96 336 103.163 336 112V160H176V112Z" fill="#93c5fd"/>
+  <!-- Printed Paper Output -->
+  <path d="M176 304H336V392C336 400.837 328.837 408 320 408H192C183.163 408 176 400.837 176 392V304Z" fill="#f8fafc" stroke="#e2e8f0" stroke-width="4"/>
+  <!-- Text lines on printed paper -->
+  <line x1="204" y1="336" x2="308" y2="336" stroke="#1e3a8a" stroke-width="6" stroke-linecap="round"/>
+  <line x1="204" y1="356" x2="280" y2="356" stroke="#3b82f6" stroke-width="6" stroke-linecap="round"/>
+  <line x1="204" y1="376" x2="296" y2="376" stroke="#94a3b8" stroke-width="6" stroke-linecap="round"/>
+  <!-- Printer Slot -->
+  <rect x="160" y="272" width="192" height="16" rx="8" fill="#1e293b"/>
+  <!-- Status LED -->
+  <circle cx="344" cy="224" r="8" fill="#22c55e"/>
+</svg>

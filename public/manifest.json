@@ -1,0 +1,21 @@
+{
+  "id": "/",
+  "name": "Namaste Print",
+  "short_name": "NamastePrint",
+  "description": "Nepal-first, mobile-first web platform for print shops to send and receive files via permanent QR code without customer accounts.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#1e3a8a",
+  "background_color": "#f8fafc",
+  "categories": ["utilities", "business", "productivity"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
